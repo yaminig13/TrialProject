@@ -8,8 +8,7 @@
 export default {
   data() {
     return {
-      message: 'I love Vue!',
-      name: 'Yamini'
+      message: 'I love Vue!'
     }
   }
 }
